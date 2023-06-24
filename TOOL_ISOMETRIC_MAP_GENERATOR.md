@@ -1,3 +1,10 @@
+﻿<font size = "3"> 
+
+[⬅️ Back to Profile](https://github.com/Ash2oPS)
+
+</font>
+
+---
 <div align="center">
 
 # :world_map: Isometric 2D Map Generator :triangular_ruler:
@@ -15,9 +22,9 @@
 
 ## What is it?
 
-In most cases, creating a map for a 2D isometric game can be pretty annoying. Once every block sprite is created, you open
+In most cases, creating a map for a 2D isometric game can be tedious. Once every block sprite is created, you open
 your map editor program, you pick one block sprite, you draw your shape, one sprite at a time, you pick another sprite, you 
-draw, but eh, the first shape doesn't fit... You got it, it can be pretty frutrating. And that's exactly why I started creating 
+draw, but eh, the first shape doesn't fit... You got it, it can be pretty frustrating. And that's exactly why I started creating 
 this tool. With this 2D Isometric Map Generator, creating maps for your 2D Iso game is way easier. <br>
 Here's the trick:
 
@@ -43,7 +50,7 @@ one texture input.
 ## Block Parameters
 
 Each pixel color corresponds to a block sprite that you can easily set up. Plus you can set several parameters to these block
-in order to make them look unique. For exemple, liquids such as water or lava have a strong passive wavy animation. Whereas other
+in order to make them look unique. For example, liquids such as water or lava have a strong passive wavy animation. Whereas other
 blocks have a more subtle animation. On the other hand, to make sand look more messy than the other blocks, its height is more 
 randomly determined.
 
@@ -68,13 +75,23 @@ is used by a shader in Unity to create procedural variations.
 
 ## Map Skin
 
-In order to control all these block parameters, a map has some rules that are applied. This group of rules is called a Map Skin. 
-With a Map Skin, you can set the block sprite 
+In order to control all these **block parameters**, the map has some rules that are applied. This group of rules is called a Map Skin. 
+With a Map Skin, you can set the global tint of the shadows, the block sprite corresponding to a certain texture pixel color, 
+the possible colors for its Red-Green-Blue parts. I said "possible" because if you want this block to have slightly different 
+colors than its neighbors, you can since you don't set up flat colors but gradients in order to pick a random color in it.
 
 
 
 ## What's next?
 
-LOREM
+This tool is currently a **work in progress** and would need some fixes concerning the way it works. 
+Let's take a minute to think about what we could do with it. If we plug it to a **random map generator** we could easily create some
+`Pokemon Mystery Dungeon`-like **random maps** in a isometric style.
 
-<- [Back to Profile](https://github.com/Ash2oPS)
+---
+
+<font size = "3"> 
+
+[⬅️ Back to Profile](https://github.com/Ash2oPS)
+
+</font>
