@@ -1,11 +1,6 @@
 <h3 align="center"> Hello! I'm </h3>
 <h1 align="center"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
-
-
-
-
-
 <p align="center">
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" width="" height=""/>
 </p>
@@ -14,7 +9,7 @@
 
 I'm a 23 year-old **`Video Game Systems & Tools Programmer`**!  
 
-I just obtained my degree in **Video Games Development** and I'd be happy to work in collaboration with you. 😌  
+I just obtained my degree in **Video Games Development** and I'd be happy to work in collaboration with you. :relieved:  
 
 I started learning how to create **Video Games** in 2016 with **Game Maker Studio 2**, and it quickly became my strongest passion.  
 Therefore I studied IT and Networking for 2 years before I went to **`ETPA Rennes`** (France) to really learn how to create **Games**. 
@@ -22,19 +17,31 @@ During these **3 years** of studies I used **`Unity`** a lot, whether for **stud
 **Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
 I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
 
+## My Tools
+
+## My Games
+
 <p align="center">
 <img src="Resources/Images/I_UnityLogo.png" alt= “mdr” width="30%" height="30%">
 </p>
 
 
-
 ## How to contact me?
 
-<p align="center">
+<div style="text-align:center;">
 
 [<img src="Resources/Images/I_LinkedinLogo.png" alt= “Linkedin” width="8%" height="8%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)&emsp;
 &emsp;[<img src="Resources/Images/I_TwitterLogo.png" alt= “Twitter” width="8%" height="8%">](https://twitter.com/eSibeauxA2o)&emsp;
 &emsp;[<img src="Resources/Images/I_ItchioLogo.png" alt= “Itchio” width="8%" height="8%">](https://ash2o.itch.io/)&emsp;
 &emsp;[<img src="Resources/Images/I_InstagramLogo.png" alt= “Instagram” width="8%" height="8%">](https://www.instagram.com/etienne_sibeaux/)
 
-</p>
+</div>
+
+
+<div style="text-align:center;">
+
+<img src="Resources/Images/I_EmailLogo.png" alt= “Linkedin” width="8%" height="8%">  
+
+**`esibeaux.pro@outlook.fr`**
+
+</div>
