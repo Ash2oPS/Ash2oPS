@@ -17,9 +17,14 @@ During these **3 years** of studies I used **`Unity`** a lot, whether for **stud
 **Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
 I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
 
+<br>
+
+
 <p align="center">
 <img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
 </p>
+
+<br>
 
 ## :wrench: My Tools [Personal Projects, not available for public usage]
 
@@ -54,8 +59,13 @@ Each pixel color
 <img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_03.gif" alt= IsoMapGenDemo1 width="90%" height="90%">
 </div>
 
+<br>
+<br>
 
 ## :video_game: My Games
+
+<br>
+<br>
 
 ## 🫳 What do I use?
 
@@ -72,20 +82,20 @@ Each pixel color
 <br>
 <br>
 
-<h3 align="center"> 2D & 3D Art </h3>
+### ✍️ 2D & 3D Art :house:
 
 <br>
 
-[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
+[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="20%" height="20%">](https://www.blender.org/)
 &emsp;
-[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="30%" height="30%">](https://www.clipstudio.net/fr)
+[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="20%" height="20%">](https://www.clipstudio.net/fr)
 &emsp;
 [<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="20%" height="20%">](https://www.aseprite.org/)
 
 <br>
 <br>
 
-<h3 align="center"> Versioning </h3>
+### 📈 Versioning 📉 
 
 <br>
 
@@ -96,7 +106,7 @@ Each pixel color
 <br>
 <br>
 
-<h3 align="center"> Project Management </h3>
+### Project Management 
 
 <br>
 
@@ -105,6 +115,9 @@ Each pixel color
 [<img src="Resources/Images/I_HacknplanLogo.png" alt= Hacknplan width="15%" height="15%">](https://trello.com/)
 
 </div>
+
+<br>
+<br>
 
 ## :telephone: How to contact me?
 
