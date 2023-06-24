@@ -17,14 +17,23 @@ During these **3 years** of studies I used **`Unity`** a lot, whether for **stud
 **Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
 I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
 
-## My Tools
-
-## My Games
-
 <p align="center">
 <img src="Resources/Images/I_UnityLogo.png" alt= “mdr” width="30%" height="30%">
 </p>
 
+## My Tools
+
+## My Games
+
+## What do I use?
+
+<div style="text-align:center;">
+
+[<img src="Resources/Images/I_BlenderLogo.png" alt= “Blender” width="30%" height="30%">](https://www.blender.org/)
+
+[<img src="Resources/Images/I_ClipStudioLogo.png" alt= “ClipStudioPaint” width="30%" height="30%">](https://www.clipstudio.net/fr)
+
+</div>
 
 ## How to contact me?
 
@@ -40,7 +49,7 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 <div style="text-align:center;">
 
-<img src="Resources/Images/I_EmailLogo.png" alt= “Linkedin” width="8%" height="8%">  
+<img src="Resources/Images/I_EmailLogo.png" alt= “Mail” width="8%" height="8%">  
 
 **`esibeaux.pro@outlook.fr`**
 
