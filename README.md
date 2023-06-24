@@ -1,11 +1,15 @@
+<p align="center">
+
 <h3 style="text-align: center;"> Hello! I'm</h3>
 
  <h1 style="text-align: center;"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
+ </p>
+
 
 
 <p align="center">
-<img src="https://tenor.com/view/smash-bros-gif-3802449.gif" width="" height="" />
+<img src="https://tenor.com/view/smash-bros-gif-3802449.gif" width="" height=""/>
 </p>
 
 ## Who am I?
