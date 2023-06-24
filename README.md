@@ -1,4 +1,4 @@
-<h3 style="text-align: center;"> Hello! I'm</h3>
+<h2 style="text-align: center;"> Hello! I'm</h2>
 
  <h1 style="text-align: center;"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
