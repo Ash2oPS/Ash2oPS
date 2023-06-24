@@ -18,7 +18,7 @@ I started learning how to create **Video Games** in 2016 with **Game Maker Studi
 Therefore I studied IT and Networking for 2 years before I went to **`ETPA Rennes`** (France) to really learn how to create **Games**. 
 During these **3 years** of studies I used **`Unity`** a lot, whether for **student** or **personnal projects**, so it's with this 
 **Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
-I didn't even know about: **`Tooling`**! This discovery 
+I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
 
 <p align="center">
 <img src="Resources/Images/I_UnityLogo.png" alt= “mdr” width="30%" height="30%">
@@ -26,3 +26,8 @@ I didn't even know about: **`Tooling`**! This discovery
 
 
 
+## How to contact me?
+
+
+
+[<img src="Resources/Images/I_LinkedinLogo.png" alt= “mdr” width="3%" height="3%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)
