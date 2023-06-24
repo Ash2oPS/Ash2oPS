@@ -21,9 +21,36 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 <img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
 </p>
 
-## :wrench: My Tools
+## :wrench: My Tools [Personal Projects, not available for public usage]
 
-[tools](https://github.com/Ash2oPS/Ash2oPS/blob/main/MYTOOLS.md)
+<h3 align="center"> Isometric 2D Map Generator </h3>
+<div style="text-align:center;"><img src="Resources/Images/I_IsoMapLogo.png" alt= Blender width="20%" height="30%"></div>
+
+In most cases, creating a map for a 2D isometric game can be pretty annoying. Once every block sprite is created, you open
+your map editor program, you pick one block sprite, you draw your shape, one sprite at a time, you pick another sprite, you 
+draw, but eh, the first shape doesn't fit... You got it, it can be pretty frutrating. And that's exactly why I started creating 
+this tool. With this 2D Isometric Map Generator, creating maps for your 2D Iso game is way easier. <br>
+Here's the trick:
+
+<p align="center">
+<img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_01.gif" alt= IsoMapGenDemo1 width="90%" height="90%">
+</p>
+
+As you can see, this tool allows you to create maps quickly and easily. It only takes a low-res texture as an input to create a procedural
+isometric world. In this case used sprites to create it are made in pixel art (only because I like it) but of course, it can be used 
+with other styles! Currently, changing the sprites to our need is absolutely possible and you can absolutely use several sprites with
+one texture input.
+
+<p align="center">
+<img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02.gif" alt= IsoMapGenDemo1 width="90%" height="90%">
+</p>
+
+Each pixel color 
+
+<p align="center">
+<img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_03.gif" alt= IsoMapGenDemo1 width="90%" height="90%">
+</p>
+
 
 ## :video_game: My Games
 
@@ -33,19 +60,21 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 <div style="text-align:center;">
 
-[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="30%" height="30%">](https://www.blender.org/)
+[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
 
 [<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="30%" height="30%">](https://www.clipstudio.net/fr)
 
-[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="30%" height="30%">](https://desktop.github.com/)
+[<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="30%" height="30%">](https://www.aseprite.org/)
 
-[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="30%" height="30%">](https://www.sourcetreeapp.com/)
+[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="20%" height="30%">](https://desktop.github.com/)
 
-[<img src="Resources/Images/I_TrelloLogo.png" alt= Trello width="30%" height="30%">](https://trello.com/)        
+[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="15%" height="30%">](https://www.sourcetreeapp.com/)
+
+[<img src="Resources/Images/I_TrelloLogo.png" alt= Trello width="20%" height="30%">](https://trello.com/)        
 
 <br>
 
-[Hacknplan](https://www.hacknplan.com) 
+[<h3 align="center"> :large_orange_diamond: Hacknplan :large_orange_diamond: </h3>](https://www.hacknplan.com) 
 
 (Didn't find any good logo on Google Images)
 
