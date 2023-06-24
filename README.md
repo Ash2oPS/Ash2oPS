@@ -58,7 +58,7 @@ Each pixel color
 
 <p align="center">
 
-<div style="text-align:center;">
+
 
 [<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
 
@@ -78,7 +78,7 @@ Each pixel color
 
 (Didn't find any good logo on Google Images)
 
-</div>
+
 
 </p>
 
