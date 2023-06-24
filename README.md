@@ -1,10 +1,15 @@
 <p align="center">
 
+Hello! I'm  
+🍃 Etienne Sibeaux!🍂
+
+ </p>
+
 <h3 style="text-align: center;"> Hello! I'm</h3>
 
  <h1 style="text-align: center;"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
- </p>
+
 
 
 
