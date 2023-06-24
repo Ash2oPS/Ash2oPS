@@ -5,11 +5,11 @@
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" alt= SmashVillagerGif width="" height=""/>
 </p>
 
-- [Who am I?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#%EF%B8%8F-who-am-i)
-- [My Tools](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#wrench-my-tools-personal-projects-not-available-for-public-usage)
-- [My Games](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#video_game-my-games)
-- [What do I use](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#-what-do-i-use)
-- [How to contact me?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#-what-do-i-use)
+- [Who am I?](https://github.com/Ash2oPS#%EF%B8%8F-who-am-i)
+- [My Tools](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
+- [My Games](https://github.com/Ash2oPS#video_game-my-games)
+- [What do I use](https://github.com/Ash2oPS#-what-do-i-use)
+- [How to contact me?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
 
 ## 🙆‍♂️ Who am I?
 
