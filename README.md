@@ -7,7 +7,7 @@
 
 ## 🙆‍♂️ Who am I?
 
-I'm a 23 year-old **`Video Game Systems & Tools Programmer`**!  
+I'm a French 23 year-old **`Video Game Systems & Tools Programmer`**!  
 
 I just obtained my degree in **Video Games Development** and I'd be happy to work in collaboration with you. :relieved:  
 
@@ -56,9 +56,7 @@ Each pixel color
 
 ## 🫳 What do I use?
 
-<p align="center">
-
-
+<div align="center">
 
 [<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
 
@@ -78,9 +76,7 @@ Each pixel color
 
 (Didn't find any good logo on Google Images)
 
-
-
-</p>
+</div>
 
 ## :telephone: How to contact me?
 
