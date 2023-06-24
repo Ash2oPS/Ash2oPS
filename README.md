@@ -30,6 +30,11 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 ## How to contact me?
 
+<p align="center">
 
+[<img src="Resources/Images/I_LinkedinLogo.png" alt= “Linkedin” width="8%" height="8%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)&emsp;
+&emsp;[<img src="Resources/Images/I_TwitterLogo.png" alt= “Twitter” width="8%" height="8%">](https://twitter.com/eSibeauxA2o)&emsp;
+&emsp;[<img src="Resources/Images/I_ItchioLogo.png" alt= “Itchio” width="8%" height="8%">](https://ash2o.itch.io/)&emsp;
+&emsp;[<img src="Resources/Images/I_InstagramLogo.png" alt= “Instagram” width="8%" height="8%">](https://www.instagram.com/etienne_sibeaux/)
 
-[<img src="Resources/Images/I_LinkedinLogo.png" alt= “mdr” width="4%" height="4%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)
+</p>
