@@ -27,6 +27,8 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 ## What do I use?
 
+<p align="center">
+
 <div style="text-align:center;">
 
 [<img src="Resources/Images/I_BlenderLogo.png" alt= “Blender” width="30%" height="30%">](https://www.blender.org/)
@@ -34,6 +36,8 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 [<img src="Resources/Images/I_ClipStudioLogo.png" alt= “ClipStudioPaint” width="30%" height="30%">](https://www.clipstudio.net/fr)
 
 </div>
+
+</p>
 
 ## How to contact me?
 
@@ -54,3 +58,4 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 **`esibeaux.pro@outlook.fr`**
 
 </div>
+
