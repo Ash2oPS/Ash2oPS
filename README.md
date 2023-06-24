@@ -61,27 +61,54 @@ Each pixel color
 
 <div align="center">
 
-[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
-
-[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="30%" height="30%">](https://www.clipstudio.net/fr)
-
-[<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="30%" height="30%">](https://www.aseprite.org/)
-
-[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="20%" height="30%">](https://desktop.github.com/)
-
-[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="15%" height="30%">](https://www.sourcetreeapp.com/)
-
-[<img src="Resources/Images/I_TrelloLogo.png" alt= Trello width="20%" height="30%">](https://trello.com/)        
+### :video_game: Video Games & Tool Development :wrench:
 
 <br>
 
-[<h3 align="center"> :large_orange_diamond: Hacknplan :large_orange_diamond: </h3>](https://www.hacknplan.com) 
+[<img src="Resources/Images/I_UnityLogo_Mini.png" alt= Unity width="15%" height="15%">](https://unity.com/)
+&emsp;&emsp;&emsp;
+[<img src="Resources/Images/I_VisualStudioLogo.png" alt= VisualStudio width="15%" height="15%">](https://visualstudio.microsoft.com/fr/)
 
-(Didn't find any good logo on Google Images)
+<br>
+<br>
+
+<h3 align="center"> 2D & 3D Art </h3>
+
+<br>
+
+[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="36%" height="36%">](https://www.blender.org/)
+&emsp;
+[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="30%" height="30%">](https://www.clipstudio.net/fr)
+&emsp;
+[<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="20%" height="20%">](https://www.aseprite.org/)
+
+<br>
+<br>
+
+<h3 align="center"> Versioning </h3>
+
+<br>
+
+[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="20%" height="30%">](https://desktop.github.com/)
+&emsp;&emsp;&emsp;
+[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="13%" height="13%">](https://www.sourcetreeapp.com/)
+
+<br>
+<br>
+
+<h3 align="center"> Project Management </h3>
+
+<br>
+
+[<img src="Resources/Images/I_TrelloLogo.png" alt= Trello width="15%" height="15%">](https://trello.com/)
+&emsp;&emsp;&emsp;
+[<img src="Resources/Images/I_HacknplanLogo.png" alt= Hacknplan width="15%" height="15%">](https://trello.com/)
 
 </div>
 
 ## :telephone: How to contact me?
+
+<br>
 
 <div align="center">
 
