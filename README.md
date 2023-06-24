@@ -38,16 +38,16 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 <div align="center">
 
-## :world_map: Isometric 2D Map Generator :triangular_ruler:
+## <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50"> Isometric 2D Map Generator <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50">
 
-<img src="Resources/Images/I_IsoMapLogo.png" alt= Blender width="10%" height="10%">
+
 
 An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unity!
 
 <img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02_Short.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
 
 
-### [You want more informations? Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
+## [To see more, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
 
 </div>
 
