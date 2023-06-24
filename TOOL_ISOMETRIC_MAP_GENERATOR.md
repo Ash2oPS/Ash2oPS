@@ -6,6 +6,8 @@
 </div>
 <br>
 
+[oui](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
+
 ## What is it?
 
 In most cases, creating a map for a 2D isometric game can be pretty annoying. Once every block sprite is created, you open
