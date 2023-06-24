@@ -3,10 +3,15 @@
 # :world_map: Isometric 2D Map Generator :triangular_ruler:
 
 <img src="Resources/Images/I_IsoMapLogo.png" alt= Blender width="20%" height="30%">
-</div>
 <br>
+</div>
 
-[oui](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
+- [What is it?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#what-is-it)
+- [Block Parameters](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#block-parameters)
+- [Map Skin](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#map-skin)
+- [What's Next?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
+
+
 
 ## What is it?
 
@@ -70,3 +75,6 @@ With a Map Skin, you can set the block sprite
 
 ## What's next?
 
+LOREM
+
+<- [Back to Profile](https://github.com/Ash2oPS)
