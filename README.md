@@ -5,6 +5,12 @@
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" alt= SmashVillagerGif width="" height=""/>
 </p>
 
+- [Who am I?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#%EF%B8%8F-who-am-i)
+- [My Tools](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#wrench-my-tools-personal-projects-not-available-for-public-usage)
+- [My Games](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#video_game-my-games)
+- [What do I use](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#-what-do-i-use)
+- [How to contact me?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#-what-do-i-use)
+
 ## 🙆‍♂️ Who am I?
 
 I'm a French 23 year-old **`Video Game Systems & Tools Programmer`**!  
@@ -24,7 +30,8 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 <img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
 </p>
 
-<br>
+
+---
 
 ## :wrench: My Tools [Personal Projects, not available for public usage]
 
@@ -33,11 +40,11 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 ## :world_map: Isometric 2D Map Generator :triangular_ruler:
 
-<img src="Resources/Images/I_IsoMapLogo.png" alt= Blender width="20%" height="30%">
+<img src="Resources/Images/I_IsoMapLogo.png" alt= Blender width="10%" height="10%">
 
-A easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unity!
+An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unity!
 
-<img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_01.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
+<img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02_Short.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
 
 
 ### [You want more informations? Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
@@ -45,18 +52,20 @@ A easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unit
 </div>
 
 <br>
-<br>
+
+---
 
 ## :video_game: My Games
 
 <br>
-<br>
+
+---
 
 ## 🫳 What do I use?
 
 <div align="center">
 
-### :video_game: Video Games & Tool Development :wrench:
+### :video_game: Video Games & Tools Development :wrench:
 
 <br>
 
@@ -102,7 +111,8 @@ A easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unit
 </div>
 
 <br>
-<br>
+
+---
 
 ## :telephone: How to contact me?
 
