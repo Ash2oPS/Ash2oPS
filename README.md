@@ -30,4 +30,4 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 
 
-[<img src="Resources/Images/I_LinkedinLogo.png" alt= “mdr” width="3%" height="3%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)
+[<img src="Resources/Images/I_LinkedinLogo.png" alt= “mdr” width="4%" height="4%">](https://www.linkedin.com/in/etienne-sibeaux-680612226/)
