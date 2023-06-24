@@ -71,11 +71,11 @@ A easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unit
 
 <br>
 
-[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="20%" height="20%">](https://www.blender.org/)
+[<img src="Resources/Images/I_BlenderLogo.png" alt= Blender width="15%" height="15%">](https://www.blender.org/)
 &emsp;
-[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="20%" height="20%">](https://www.clipstudio.net/fr)
+[<img src="Resources/Images/I_ClipStudioLogo.png" alt= ClipStudioPaint width="15%" height="15%">](https://www.clipstudio.net/fr)
 &emsp;
-[<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="20%" height="20%">](https://www.aseprite.org/)
+[<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="15%" height="15%">](https://www.aseprite.org/)
 
 <br>
 <br>
@@ -84,9 +84,9 @@ A easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unit
 
 <br>
 
-[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="20%" height="30%">](https://desktop.github.com/)
+[<img src="Resources/Images/I_GitHubLogo.png" alt= GitHubDesktop width="15%" height="15%">](https://desktop.github.com/)
 &emsp;&emsp;&emsp;
-[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="13%" height="13%">](https://www.sourcetreeapp.com/)
+[<img src="Resources/Images/I_SourcetreeLogo.png" alt= Sourcetree width="15%" height="15%">](https://www.sourcetreeapp.com/)
 
 <br>
 <br>
