@@ -64,7 +64,7 @@ An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Uni
 <img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02_Short.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
 
 
-## [To see more, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
+## [To see more, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md)
 
 </div>
 
