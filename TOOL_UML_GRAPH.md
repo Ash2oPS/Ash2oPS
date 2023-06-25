@@ -25,7 +25,7 @@ The development of this tool started almost a year ago and has since been cancel
 changed in the meantime, I plan to restart its development from scratch in the coming months since it is a project that is dear to me.
 
 <div align="center">
-<img src="Resources/Images/I_UMLDiagram_01.png" alt= Blender width="60%" height="60%">
+<img src="Resources/Images/I_UMLDiagram_01.png" alt= Blender width="80%" height="80%">
 
 Example of a simple UML Diagram  
 (source: https://medium.com/@uferesamuel/uml-class-diagrams-the-simple-approach-eee2d1ffc125)
@@ -47,14 +47,30 @@ The tool recursively scans a directory (ideally the `Scripts` folder of a Unity 
 - Its attributes and methods
 - The `summary` of these elements
 
-With this information, the program is capable of generating a canvas presenting a UML diagram for each of the found scripts. 
+With these informations, the program is capable of generating a canvas presenting a simple UML diagram for each of the found scripts. 
 Arrows indicate the parenting established between these classes. The node of a class displays its name as well as its attributes 
 and methods. Hovering over an element with the mouse cursor displays the `summary` of that element. From there, you can navigate within 
 this space using the program or export a PNG copy of the entire diagram or just a part of it.
 
+<div align="center">
+<img src="Resources/Images/I_UMLDiagramGenerator_01.png" alt= IsoMapGenDemo1 width="80%" height="80%">
+</div>
+
 ## What's currently in place?
 
+<div align="center">
+
+`[Part in progress]`
+
+</div>
+
 ## What's next?
+
+<div align="center">
+
+`[Part in progress]`
+
+</div>
 
 ---
 

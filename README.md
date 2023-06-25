@@ -1,3 +1,10 @@
+<div align="center">
+
+`[Portfolio in progress]`  
+`[Last Update: 26/06/2023 - 01:30 AM]`
+
+</div>
+
 <h3 align="center"> Hello! I'm </h3>
 <h1 align="center"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
@@ -48,7 +55,7 @@ An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Uni
 <img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02_Short.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
 
 
-## [To see more, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
+## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
 
 <br>
 <br>
@@ -61,10 +68,26 @@ An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Uni
 
 A program to visualize the structure and relationships of scripts in a Unity project.
 
-<img src="Resources/Images/I_UMLDiagramGenerator_01.png" alt= IsoMapGenDemo1 width="80%" height="80%">
+<img src="Resources/Images/I_UMLDiagramGenerator_01.png" alt= UMLDiagramGen1 width="80%" height="80%">
 
 
-## [To see more, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md)
+## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md)
+
+<br>
+<br>
+
+
+
+## :banana: [Student Project] Item Editor :coconut:
+
+
+
+An Item Editor for a student project that allows any member of the studio to create Items without typing any line of code.
+
+<img src="Resources/Images/I_ItemEditor_Banana_01.png" alt= ItemEditorBanana01 width="80%" height="80%">
+
+
+## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR.md)
 
 </div>
 
@@ -74,7 +97,13 @@ A program to visualize the structure and relationships of scripts in a Unity pro
 
 ## :video_game: My Games
 
-<br>
+<div align="center">
+
+`[Part in progress]`
+
+To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/).
+</div>
+
 
 ---
 
