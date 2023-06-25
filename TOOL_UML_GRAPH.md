@@ -14,8 +14,8 @@
 </div>
 
 - [What is it?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#what-is-it)
-- [Block Parameters](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#block-parameters)
-- [Map Skin](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#map-skin)
+- [What's the idea behind all this?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#block-parameters)
+- [What's currently in place?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#map-skin)
 - [What's Next?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
 
 ## What is it?
@@ -51,6 +51,10 @@ With this information, the program is capable of generating a canvas presenting 
 Arrows indicate the parenting established between these classes. The node of a class displays its name as well as its attributes 
 and methods. Hovering over an element with the mouse cursor displays the `summary` of that element. From there, you can navigate within 
 this space using the program or export a PNG copy of the entire diagram or just a part of it.
+
+## What's currently in place?
+
+## What's next?
 
 ---
 
