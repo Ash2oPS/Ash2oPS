@@ -13,10 +13,10 @@
 <br>
 </div>
 
-- [What is it?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#what-is-it)
-- [What's the idea behind all this?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#block-parameters)
-- [What's currently in place?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#map-skin)
-- [What's Next?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
+- [What is it?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md#what-is-it)
+- [What's the idea behind all this?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md#whats-the-idea-behind-all-this)
+- [What's currently in place?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md#whats-currently-in-place)
+- [What's Next?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md#whats-next)
 
 ## What is it?
 
