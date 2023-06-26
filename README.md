@@ -1,7 +1,7 @@
 <div align="center">
 
 `[Portfolio in progress]`  
-`[Last Update: 26/06/2023 - 11:18 AM - UTC+2]`
+`[Last Update: 26/06/2023 - 03:58 PM - UTC+2]`
 
 
 </div>
@@ -17,6 +17,7 @@
 - [My Tools](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
 - [My Games](https://github.com/Ash2oPS#video_game-my-games)
 - [What do I use](https://github.com/Ash2oPS#-what-do-i-use)
+- [My Resume](https://github.com/Ash2oPS#-my-resume)
 - [How to contact me?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
 
 ## 🙆‍♂️ Who am I?
@@ -31,12 +32,16 @@ During these **3 years** of studies I used **`Unity`** a lot, whether for **stud
 **Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
 I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
 
+
+
 <br>
 
 
 <p align="center">
 <img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
 </p>
+
+
 
 
 ---
@@ -160,6 +165,19 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 <br>
 
 ---
+
+## :page_facing_up: My Resume
+
+
+<div align="center">
+
+If you're interested, you can find my resume [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/PDF_Main_Resume_FR.pdf) :wink:  
+`English version coming soon`
+</div>
+
+---
+
+
 
 ## :telephone: How to contact me?
 
