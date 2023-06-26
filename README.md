@@ -1,7 +1,8 @@
 <div align="center">
 
 `[Portfolio in progress]`  
-`[Last Update: 26/06/2023 - 01:30 AM]`
+`[Last Update: 26/06/2023 - 11:18 AM - UTC+2]`
+
 
 </div>
 
@@ -179,6 +180,14 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 <img src="Resources/Images/I_EmailLogo.png" alt= Mail width="8%" height="8%">  
 
 **`esibeaux.pro@outlook.fr`**
+
+</div>
+
+---
+
+<div align="center">
+
+`[French version coming soon]`  
 
 </div>
 
