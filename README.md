@@ -1,7 +1,7 @@
 <div align="center">
 
 `[Portfolio in progress]`  
-`[Last Update: 26/06/2023 - 03:58 PM - UTC+2]`
+`[Last Update: 26/06/2023 - 03:59 PM - UTC+2]`
 
 
 </div>
@@ -17,7 +17,7 @@
 - [My Tools](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
 - [My Games](https://github.com/Ash2oPS#video_game-my-games)
 - [What do I use](https://github.com/Ash2oPS#-what-do-i-use)
-- [My Resume](https://github.com/Ash2oPS#-my-resume)
+- [My Resume](https://github.com/Ash2oPS#page_facing_up-my-resume)
 - [How to contact me?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
 
 ## 🙆‍♂️ Who am I?
