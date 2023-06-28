@@ -1,7 +1,7 @@
 <div align="center">
 
 `[Portfolio en cours de création]`  
-`[Dernière mise à jour : 26/06/2023 - 03:59 PM - UTC+2]`
+`[Dernière mise à jour : 29/06/2023 - 01:56 - UTC+2]`
 
 ---
 
@@ -20,12 +20,12 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" alt= SmashVillagerGif width="" height=""/>
 </p>
 
-- [Qui suis-je ?](https://github.com/Ash2oPS#%EF%B8%8F-who-am-i)
-- [Mes Outils](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
-- [Mes Jeux](https://github.com/Ash2oPS#video_game-my-games)
-- [Les logiciels que j'utilise](https://github.com/Ash2oPS#-what-do-i-use)
-- [Mon CV](https://github.com/Ash2oPS#page_facing_up-my-resume)
-- [Où me contacter ?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
+- [Qui suis-je ?](https://github.com/Ash2oPS#%EF%B8%8F-qui-suis-je-)
+- [Mes Outils](https://github.com/Ash2oPS#wrench-mes-outils-projets-personnels-non-disponibles-publiquement)
+- [Mes Jeux](https://github.com/Ash2oPS#video_game-mes-jeux)
+- [Les logiciels que j'utilise](https://github.com/Ash2oPS#-les-logiciels-que-jutilise)
+- [Mon CV](https://github.com/Ash2oPS#page_facing_up-mon-cv)
+- [Où me contacter ?](https://github.com/Ash2oPS#telephone-o%C3%B9-me-contacter-)
 
 ## 🙆‍♂️ Qui suis-je ?
 

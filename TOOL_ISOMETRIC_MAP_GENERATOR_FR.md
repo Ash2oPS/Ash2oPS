@@ -13,10 +13,10 @@
 <br>
 </div>
 
-- [Qu'est-ce donc ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#what-is-it)
-- [Paramètres de bloc](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#block-parameters)
-- [Map Skin](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#map-skin)
-- [Et pour la suite ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md#whats-next)
+- [Qu'est-ce donc ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#quest-ce-donc-)
+- [Paramètres de bloc](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#param%C3%A8tres-de-bloc)
+- [Map Skin](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#map-skin)
+- [Et pour la suite ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#et-pour-la-suite-)
 
 
 
