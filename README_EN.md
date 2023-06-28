@@ -1,7 +1,6 @@
 <div align="center">
 
 `[Portfolio in progress]`  
-`[Last Update: 26/06/2023 - 03:59 PM - UTC+2]`
 
 ---
 

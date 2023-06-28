@@ -1,6 +1,6 @@
 ﻿<font size = "3"> 
 
-[⬅️ Back to Profile](https://github.com/Ash2oPS)
+[⬅️ Back to Profile](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md)
 
 </font>
 
@@ -92,6 +92,6 @@ Let's take a minute to think about what we could do with it. If we plug it to a 
 
 <font size = "3"> 
 
-[⬅️ Back to Profile](https://github.com/Ash2oPS)
+[⬅️ Back to Profile](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md)
 
 </font>

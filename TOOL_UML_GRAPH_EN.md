@@ -1,6 +1,6 @@
 ﻿<font size = "3"> 
 
-[⬅️ Back to Profile](https://github.com/Ash2oPS)
+[⬅️ Back to Profile](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md)
 
 </font>
 
@@ -76,6 +76,6 @@ this space using the program or export a PNG copy of the entire diagram or just 
 
 <font size = "3"> 
 
-[⬅️ Back to Profile](https://github.com/Ash2oPS)
+[⬅️ Back to Profile](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md)
 
 </font>
