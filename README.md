@@ -1,37 +1,46 @@
 <div align="center">
 
-`[Portfolio in progress]`  
-`[Last Update: 26/06/2023 - 03:59 PM - UTC+2]`
+`[Portfolio en cours de création]`  
+`[Dernière mise à jour : 26/06/2023 - 03:59 PM - UTC+2]`
+
+---
+
+You are seeing the French version of my Profile.  
+Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to the English Version! 
+
+---
 
 
 </div>
 
-<h3 align="center"> Hello! I'm </h3>
+<h3 align="center"> Salut ! Je m'appelle </h3>
 <h1 align="center"> 🍃 Etienne Sibeaux! 🍂 </h1>
 
 <p align="center">
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" alt= SmashVillagerGif width="" height=""/>
 </p>
 
-- [Who am I?](https://github.com/Ash2oPS#%EF%B8%8F-who-am-i)
-- [My Tools](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
-- [My Games](https://github.com/Ash2oPS#video_game-my-games)
-- [What do I use](https://github.com/Ash2oPS#-what-do-i-use)
-- [My Resume](https://github.com/Ash2oPS#page_facing_up-my-resume)
-- [How to contact me?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
+- [Qui suis-je ?](https://github.com/Ash2oPS#%EF%B8%8F-who-am-i)
+- [Mes Outils](https://github.com/Ash2oPS#wrench-my-tools-personal-projects-not-available-for-public-usage)
+- [Mes Jeux](https://github.com/Ash2oPS#video_game-my-games)
+- [Les logiciels que j'utilise](https://github.com/Ash2oPS#-what-do-i-use)
+- [Mon CV](https://github.com/Ash2oPS#page_facing_up-my-resume)
+- [Où me contacter ?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
 
-## 🙆‍♂️ Who am I?
+## 🙆‍♂️ Qui suis-je ?
 
-I'm a French 23 year-old **`Video Game Systems & Tools Programmer`**!  
+Je suis un `Programmeur de Jeux Vidéo et d'Outils` de 23 ans.  
 
-I just obtained my degree in **Video Games Development** and I'd be happy to work in collaboration with you. :relieved:  
+Je viens d'obtenir mon bachelor en Conception et Réalisation de Jeux Vidéo et je serais ravi de travailler au sein d'une de vos 
+équipes. :relieved:
 
-I started learning how to create **Video Games** in 2016 with **Game Maker Studio 2**, and it quickly became my strongest passion.  
-Therefore I studied IT and Networking for 2 years before I went to **`ETPA Rennes`** (France) to really learn how to create **Games**. 
-During these **3 years** of studies I used **`Unity`** a lot, whether for **student** or **personnal projects**, so it's with this 
-**Engine** that I'm the most comfortable to work **with** and **on**. Using it allowed me to discovered a new center of interest that
-I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of my best partners for my projects.
-
+J'ai commencé à m'intéresser au développement de Jeux Vidéo en 2015 avec RPG Maker VX Ace, mais je m'y suis pris de passion à partir
+de 2016 quand j'ai commencé à utilise Game Maker Studio 2 !  
+C'est alors qu'en 2020 j'intègre l'`ETPA` de `Rennes` après avoir obtenu mon BTS Systèmes Numériques Informatique et Réseaux. J'en 
+sors avec mon bachelor en poche en juin 2023 ! Pendant ces 3 ans d'étude, j'ai eu l'occasion de travailler énormément avec Unity pour
+des projets étudiants et d'autres personnels. C'est par conséquent avec ce moteur que je suis le plus à l'aise. Petit à petit, je me 
+suis découvert une seconde passion pour le développement d'outils pour faciliter le travail de mes coéquipiers ! Rapidement, je me suis 
+mis à beaucoup utiliser `UnityEditor` pour tous mes projets.
 
 
 <br>
@@ -46,54 +55,54 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 
 ---
 
-## :wrench: My Tools [Personal Projects, not available for public usage]
+## :wrench: Mes Outils [Projets Personnels, non disponibles publiquement]
 
 
 <div align="center">
 
 
-## <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50"> Isometric 2D Map Generator <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50">
+## <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50"> Éditeur de Maps 2D Isométriques <img src="Resources/Images/I_IsoMapLogo.png" alt= IsoMapLogo width="50" height="50">
 
 
 
-An easy-to-use and convenient tool to create procedural 2D Isometric Maps in Unity!
+Un outil simple d'utilisation et  bien pratique pour créer des maps 2D isométriques.
 
 <img src="Resources/GIFs/GIF_IsoMapGenerator_Demo_02_Short.gif" alt= IsoMapGenDemo1 width="80%" height="80%">
 
 
-## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR.md)
+## Pour en apprendre d'avantage, rendez-vous [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md) !
 
 <br>
 <br>
 
 
 
-## :clipboard: UML Diagram Generator 📃
+## :clipboard: Générateur de diagrammes UML 📃
 
 
-
-A program to visualize the structure and relationships of scripts in a Unity project.
+Un programme permettant de générer le diagramme UML d'un projet Unity.
 
 <img src="Resources/Images/I_UMLDiagramGenerator_01.png" alt= UMLDiagramGen1 width="80%" height="80%">
 
 
-## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH.md)
+## Pour en apprendre d'avantage, rendez-vous [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH_FR.md) !
 
 <br>
 <br>
 
 
 
-## :banana: [Student Project] Item Editor :coconut:
+## :banana: [Projet Étudiant] Éditeur d'Items mudulaires :coconut:
 
 
 
-An Item Editor for a student project that allows any member of the studio to create Items without typing any line of code.
+Un Éditeur d'Items pour un projet étudiant qui permet à n'importe quel membre de l'équipe de créer des Items uniques sans écrire la
+moindre ligne de code.
 
 <img src="Resources/Images/I_ItemEditor_Banana_01.png" alt= ItemEditorBanana01 width="80%" height="80%">
 
 
-## [To see more details, Click here!](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR.md)
+## Pour en apprendre d'avantage, rendez-vous [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md) !
 
 </div>
 
@@ -101,23 +110,23 @@ An Item Editor for a student project that allows any member of the studio to cre
 
 ---
 
-## :video_game: My Games
+## :video_game: Mes jeux
 
 <div align="center">
 
-`[Part in progress]`
+`[Section en cours de création]`
 
-To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/).
+Pour voir certains de mes jeux, rendez-vous [ICI](https://ash2o.itch.io/) !
 </div>
 
 
 ---
 
-## 🫳 What do I use?
+## 🫳 Les logiciels que j'utilise
 
 <div align="center">
 
-### :video_game: Video Games & Tools Development :wrench:
+### :video_game: Développement de Jeux Vidéo et d'Outils :wrench:
 
 <br>
 
@@ -128,7 +137,7 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 <br>
 <br>
 
-### ✍️ 2D & 3D Art :house:
+### ✍️ 2D & 3D :house:
 
 <br>
 
@@ -152,7 +161,7 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 <br>
 <br>
 
-### 🗓 Project Management 📌
+### 🗓 Gestion de Projets 📌
 
 <br>
 
@@ -166,20 +175,20 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 
 ---
 
-## :page_facing_up: My Resume
+## :page_facing_up: Mon CV
 
 
 <div align="center">
 
-If you're interested, you can find my resume [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/PDF_Main_Resume_FR.pdf) :wink:  
-`English version coming soon`
+Si vous êtes intéressé(e), vous pouvez retrouver mon CV [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/PDF_Main_Resume_FR.pdf) :wink:  
+
 </div>
 
 ---
 
 
 
-## :telephone: How to contact me?
+## :telephone: Où me contacter ?
 
 <br>
 
@@ -201,11 +210,5 @@ If you're interested, you can find my resume [HERE](https://github.com/Ash2oPS/A
 
 </div>
 
----
 
-<div align="center">
-
-`[French version coming soon]`  
-
-</div>
 
