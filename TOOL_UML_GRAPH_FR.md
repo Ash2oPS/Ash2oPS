@@ -15,7 +15,6 @@
 
 - [Qu'est-ce donc ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH_FR.md#quest-ce-donc-)
 - [Quelle est l'idée derrière tout ça ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH_FR.md#quelle-est-lid%C3%A9e-derri%C3%A8re-tout-%C3%A7a-)
-- [Qu'est fonctionnel à l'heure qu'il est ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH_FR.md#quest-fonctionnel-%C3%A0-lheure-quil-est-)
 - [Et pour la suite ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_UML_GRAPH_FR.md#et-pour-la-suite-)
 
 ## Qu'est-ce donc ?
@@ -39,7 +38,7 @@ générateur de diagramme UML serait bien pratique !
 
 ## Quelle est l'idée derrière tout ça ?
 
-Le programme scanne de manière récursive un répertoire (de préférence le dossier `Script` d'un projet Unity) et récupère certaines 
+Le programme scanne de manière récursive un répertoire (de préférence le dossier `Scripts` d'un projet Unity) et récupère certaines 
 informations pour chaque fichier `.cs` :
 
 - Le nom de classe
@@ -58,21 +57,22 @@ d'image du diagramme entier ou bien de seulement la partie qui vous intéresse.
 <img src="Resources/Images/I_UMLDiagramGenerator_01.png" alt= IsoMapGenDemo1 width="80%" height="80%">
 </div>
 
-## Qu'est fonctionnel à l'heure qu'il est ?
 
-<div align="center">
-
-`[Section en cours de création]`
-
-</div>
 
 ## Et pour la suite ?
 
-<div align="center">
 
-`[Section en cours de création]`
-
-</div>
+Dans sa version actuelle, toutes les fonctionnalités ne sont pas encore implémantées et tout ne fonctionne pas de
+la façon souhaitée. Par exemple, pour détecter les éléments de classes présents dans un script, l'utilisateur
+doit ajouter la ligne `//HERE` juste au-dessus de ces derniers. Rendant l'utilisation du programme moins seamless
+que désiré.
+<br>
+C'est un projet auquel je crois, et j'aimerais vraiment le retravailler de zéro et finir par obtenir une version
+fonctionnelle. Je pense que ce genre de programme pourrait être utile pour garder un oeil avisé sur l'avancée
+de ses autres projets. 
+<br>
+Je ne possède que quelques bases de C++, mais je pense que réaliser ce même outil pour scanner des fichiers `.h` 
+`.cpp` serait chose plus aisée.
 
 ---
 
