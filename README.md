@@ -14,7 +14,7 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 </div>
 
 <h3 align="center"> Salut ! Je m'appelle </h3>
-<h1 align="center"> 🍃 Etienne Sibeaux! 🍂 </h1>
+<h1 align="center"> 🍃 Etienne Sibeaux ! 🍂 </h1>
 
 <p align="center">
 <img src="https://tenor.com/view/smash-bros-gif-3802449.gif" alt= SmashVillagerGif width="" height=""/>
@@ -92,7 +92,7 @@ Un programme permettant de générer le diagramme UML d'un projet Unity.
 
 
 
-## :banana: [Projet Étudiant] Éditeur d'Items mudulaires :coconut:
+## :banana: [Projet Étudiant] Éditeur d'Items :coconut:
 
 
 
@@ -116,9 +116,23 @@ moindre ligne de code.
 
 `[Section en cours de création]`
 
-Pour voir certains de mes jeux, rendez-vous [ICI](https://ash2o.itch.io/) !
-</div>
 
+Pour voir la plupart de mes jeux, rendez-vous [ICI](https://ash2o.itch.io/) !
+<br>
+Voici quelques autres projets.
+
+
+## 🔥 [WIP] Idle Pokémon 🐲
+
+Un projet personnel en cours de développement. 
+Vous pouvez retrouver le lien vers un trailer [ICI](https://www.youtube.com/watch?v=U815CxDImCI&t=25s&ab_channel=Ash2o).
+
+<img src="Resources/Images/I_PokemonIdle_01.png" alt= PokemonIdle01 width="80%" height="80%">
+
+
+## Pour en apprendre d'avantage, rendez-vous [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/GAME_POKEMON_IDLE_FR.md) !
+
+</div>
 
 ---
 
