@@ -23,7 +23,7 @@
 
 - [Qu'est-ce donc ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#quest-ce-donc-)
 - [Quelques exemples d'objets](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#quelques-exemples-dobjets)
-- [Item Functions](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#map-skin)
+- [Item Functions](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#item-functions)
 
 
 ## Qu'est-ce donc ?
@@ -59,9 +59,9 @@ cet éditeur. Si nous regardons de plus près la dynamite, voici à quoi ça res
 
 <div align="center">
 
-<img src="Resources/Images/I_ItemEditor_Dynamite_02.png" alt=Dynamite width="80%" height="80%">
+<img src="Resources/Images/I_ItemEditor_Dynamite_02.png" alt=Dynamite width="60%" height="80%">
 <br>
-<img src="Resources/Images/I_ItemEditor_Dynamite_03.png" alt=Dynamite width="80%" height="80%">
+<img src="Resources/Images/I_ItemEditor_Dynamite_03.png" alt=Dynamite width="60%" height="80%">
 
 </div>
 <br>
