@@ -6,11 +6,7 @@
 
 ---
 
-<div align="center">
 
-`[Section en cours de création]`
-
-</div>
 
 <div align="center">
 
@@ -53,7 +49,7 @@ créer les objets qu'il désire sans avoir à écrire la moindre ligne de code.
 <br>
 
 Par exemple, ces trois objets, à savoir, une dynamite, une banane et une souffleuse, sont des objets créés via
-cet éditeur. Si nous regardons de plus près la dynamite, voici à quoi ça ressemble :
+cet éditeur. Si nous regardons de plus près la dynamite, voici à quoi cela ressemble :
 
 <br>
 
@@ -78,7 +74,7 @@ ne peut être lancé si le joueur est dans l'incapacité de l'attraper.
 <br>
 <div align="center">
 
-<img src="Resources/Images/I_ItemEditor_SafetyMessage_01.png" alt=Dynamite width="80%" height="80%">
+<img src="Resources/Images/I_ItemEditor_SafetyMessage_01.png" alt=Dynamite width="60%" height="80%">
 
 </div>
 <br>
@@ -86,8 +82,16 @@ ne peut être lancé si le joueur est dans l'incapacité de l'attraper.
 
 ## Item Functions
 
+<div align="center">
+
+`[Section en cours de création]`
+
+</div>
 
 
+Afin de rendre un objet unique, le plus important reste de lui conférer une ou plusieurs utilités qui vont 
+pousser le joueur à préférer tel objet dans telles circonstances plutôt qu'un autre. C'est alors qu'entrent
+en jeu les **`Item Functions`**. 
 
 ---
 
