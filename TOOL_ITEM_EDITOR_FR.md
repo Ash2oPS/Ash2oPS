@@ -22,9 +22,8 @@
 </div>
 
 - [Qu'est-ce donc ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#quest-ce-donc-)
-- [Quelques exemples d'objets](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#quelques_exemples_dobjets)
-- [Map Skin](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#map-skin)
-- [Et pour la suite ?](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#et-pour-la-suite-)
+- [Quelques exemples d'objets](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ITEM_EDITOR_FR.md#quelques-exemples-dobjets)
+- [Item Functions](https://github.com/Ash2oPS/Ash2oPS/blob/main/TOOL_ISOMETRIC_MAP_GENERATOR_FR.md#map-skin)
 
 
 ## Qu'est-ce donc ?
@@ -84,6 +83,8 @@ ne peut être lancé si le joueur est dans l'incapacité de l'attraper.
 </div>
 <br>
 
+
+## Item Functions
 
 
 
