@@ -92,6 +92,33 @@ ne peut être lancé si le joueur est dans l'incapacité de l'attraper.
 Afin de rendre un objet unique, le plus important reste de lui conférer une ou plusieurs utilités qui vont 
 pousser le joueur à préférer tel objet dans telles circonstances plutôt qu'un autre. C'est alors qu'entrent
 en jeu les **`Item Functions`**. 
+<br>
+Les Item Functions sont des classes descendant de ScriptableObject, et chacune d'entre elles possède une 
+fonction principale appelée par l'Item. Au moment de créer l'objet via l'éditeur, ce dernier vient créer des 
+instances des item functions sélectionnées, et vient les attacher à l'asset en tant que sub-object.
+
+<br>
+<div align="center">
+
+<img src="Resources/Images/I_ItemEditor_ItemFunction_01.png" alt=ItemFunction1 width="60%" height="80%">
+<br>
+<img src="Resources/Images/I_ItemEditor_ItemFunction_02.png" alt=ItemFunction2 width="75%" height="80%">
+<br>
+
+*Exemple d'objet pouvant faire spawner un objet, souffler, exploser et faire spawner un GameObject.*
+
+</div>
+<br>
+
+Une fois ces fonctions codées, il ne reste plus qu'à les sélectionner dans l'item en cours de création. 
+Elles seront alors appelée au moment souhaité.
+
+
+Avec l'ensemble de ces features présentes dans cet éditeur, je suis heureux de pouvoir dire qu'il a apporté 
+une aide considérable dans la production de notre jeu de fin d'études. Les objets étant au coeur du 
+gameplay, n'importe quel membre de mon équipe a pu créer ce qu'il souhaitait facilement et rapidement, et ce,
+sans avoir besoin de coder quoi que ce soit.
+
 
 ---
 

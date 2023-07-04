@@ -1,7 +1,7 @@
 <div align="center">
 
 `[Portfolio en cours de création]`  
-`[Dernière mise à jour : 01/07/2023 - 16:33 - UTC+2]`
+`[Dernière mise à jour : 04/07/2023 - 23:37 - UTC+2]`
 
 ---
 
@@ -125,7 +125,7 @@ Voici quelques autres projets.
 ## 🔥 [WIP] Idle Pokémon 🐲
 
 Un projet personnel en cours de développement. 
-Vous pouvez retrouver le lien vers un trailer [ICI](https://www.youtube.com/watch?v=U815CxDImCI&t=25s&ab_channel=Ash2o).
+Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI).
 
 <img src="Resources/Images/I_PokemonIdle_01.png" alt= PokemonIdle01 width="80%" height="80%">
 
