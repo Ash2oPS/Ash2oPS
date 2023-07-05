@@ -27,7 +27,7 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 - [Mon CV](https://github.com/Ash2oPS#page_facing_up-mon-cv)
 - [Où me contacter ?](https://github.com/Ash2oPS#telephone-o%C3%B9-me-contacter-)
 
-## 🙆‍♂️ Qui suis-je ?
+##  Qui suis-je ?
 
 Je suis un `Programmeur de Jeux Vidéo et d'Outils` de 23 ans.  
 
