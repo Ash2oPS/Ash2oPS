@@ -26,7 +26,7 @@ Cliquez [ICI](https://github.com/Ash2oPS/Ash2oPS/blob/main/README.md) pour vous 
 - [My Resume](https://github.com/Ash2oPS#page_facing_up-my-resume)
 - [How to contact me?](https://github.com/Ash2oPS#telephone-how-to-contact-me)
 
-## 🙆‍♂️ Who am I?
+## 🥸 Who am I?
 
 I'm a French 23 year-old **`Video Game Systems & Tools Programmer`**!  
 
@@ -123,16 +123,34 @@ To see some of my games, check out my itch.io page [HERE](https://ash2o.itch.io/
 
 <div align="center">
 
-### :video_game: Video Games & Tools Development :wrench:
+### :video_game: Engines :wrench: 
 
 <br>
 
 [<img src="Resources/Images/I_UnityLogo_Mini.png" alt= Unity width="15%" height="15%">](https://unity.com/)
-&emsp;&emsp;&emsp;
-[<img src="Resources/Images/I_VisualStudioLogo.png" alt= VisualStudio width="15%" height="15%">](https://visualstudio.microsoft.com/fr/)
+&emsp;
+[<img src="Resources/Images/I_UnrealLogo_Mini.png" alt= Unreal width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_GameMakerLogo_Mini.png" alt= GameMaker width="15%" height="15%">](https://gamemaker.io/)
 
 <br>
 <br>
+
+### :computer: Languages :hash: 
+
+<br>
+
+[<img src="Resources/Images/I_CSharpLogo.png" alt= CS width="15%" height="15%">](https://unity.com/)
+&emsp;
+[<img src="Resources/Images/I_CPPLogo.png" alt= CPP width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_JSLogo.png" alt= JS width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_GameMakerLogo_Mini.png" alt= GML width="15%" height="15%">](https://www.unrealengine.com/)
+
+<br>
+<br>
+  
 
 ### ✍️ 2D & 3D Art :house:
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 `[Portfolio en cours de création]`  
-`[Dernière mise à jour : 04/07/2023 - 23:37 - UTC+2]`
+`[Dernière mise à jour : 06/07/2023 - 23:18 - UTC+2]`
 
 ---
 
@@ -27,7 +27,7 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 - [Mon CV](https://github.com/Ash2oPS#page_facing_up-mon-cv)
 - [Où me contacter ?](https://github.com/Ash2oPS#telephone-o%C3%B9-me-contacter-)
 
-##  Qui suis-je ?
+## 🥸 Qui suis-je ?
 
 Je suis un `Programmeur de Jeux Vidéo et d'Outils` de 23 ans.  
 
@@ -140,7 +140,7 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 
 <div align="center">
 
-### :video_game: Moteurs :wrench:
+### :video_game: Moteurs :wrench: 
 
 <br>
 
@@ -152,7 +152,22 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 
 <br>
 <br>
- 
+
+### :computer: Langages :hash: 
+
+<br>
+
+[<img src="Resources/Images/I_CSharpLogo.png" alt= CS width="15%" height="15%">](https://unity.com/)
+&emsp;
+[<img src="Resources/Images/I_CPPLogo.png" alt= CPP width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_JSLogo.png" alt= JS width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_GameMakerLogo_Mini.png" alt= GML width="15%" height="15%">](https://www.unrealengine.com/)
+
+<br>
+<br>
+  
 
 ### ✍️ 2D & 3D :house:
 
