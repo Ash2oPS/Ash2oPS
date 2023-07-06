@@ -140,17 +140,19 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 
 <div align="center">
 
-### :video_game: Développement de Jeux Vidéo et d'Outils :wrench:
+### :video_game: Moteurs :wrench:
 
 <br>
 
 [<img src="Resources/Images/I_UnityLogo_Mini.png" alt= Unity width="15%" height="15%">](https://unity.com/)
-&emsp;&emsp;&emsp;
-[<img src="Resources/Images/I_VisualStudioLogo.png" alt= VisualStudio width="15%" height="15%">](https://visualstudio.microsoft.com/fr/)
+&emsp;
+[<img src="Resources/Images/I_UnrealLogo_Mini.png" alt= Unreal width="15%" height="15%">](https://www.unrealengine.com/)
+&emsp;
+[<img src="Resources/Images/I_GameMakerLogo_Mini.png" alt= GameMaker width="15%" height="15%">](https://gamemaker.io/)
 
 <br>
 <br>
-
+ 
 ### ✍️ 2D & 3D :house:
 
 <br>
@@ -162,7 +164,7 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 [<img src="Resources/Images/I_AsepriteLogo.png" alt= Aseprite width="15%" height="15%">](https://www.aseprite.org/)
 
 <br>
-<br>
+<br> 
 
 ### 📈 Versioning 📉 
 
