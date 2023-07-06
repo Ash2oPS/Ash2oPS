@@ -23,7 +23,7 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 - [Qui suis-je ?](https://github.com/Ash2oPS#%EF%B8%8F-qui-suis-je-)
 - [Mes Outils](https://github.com/Ash2oPS#wrench-mes-outils-projets-personnels-non-disponibles-publiquement)
 - [Mes Jeux](https://github.com/Ash2oPS#video_game-mes-jeux)
-- [Ce que j'utilise](https://github.com/Ash2oPS#-ce-que-jutise)
+- [Ce que j'utilise](https://github.com/Ash2oPS#-ce-que-jutilise)
 - [Mon CV](https://github.com/Ash2oPS#page_facing_up-mon-cv)
 - [Où me contacter ?](https://github.com/Ash2oPS#telephone-o%C3%B9-me-contacter-)
 
