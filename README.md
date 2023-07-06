@@ -23,7 +23,7 @@ Click [HERE](https://github.com/Ash2oPS/Ash2oPS/blob/main/README_EN.md) to go to
 - [Qui suis-je ?](https://github.com/Ash2oPS#%EF%B8%8F-qui-suis-je-)
 - [Mes Outils](https://github.com/Ash2oPS#wrench-mes-outils-projets-personnels-non-disponibles-publiquement)
 - [Mes Jeux](https://github.com/Ash2oPS#video_game-mes-jeux)
-- [Les logiciels que j'utilise](https://github.com/Ash2oPS#-les-logiciels-que-jutilise)
+- [Ce que j'utilise](https://github.com/Ash2oPS#-ce-que-jutise)
 - [Mon CV](https://github.com/Ash2oPS#page_facing_up-mon-cv)
 - [Où me contacter ?](https://github.com/Ash2oPS#telephone-o%C3%B9-me-contacter-)
 
@@ -136,7 +136,7 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 
 ---
 
-## 🫳 Les logiciels que j'utilise
+## 🫳 Ce que j'utilise
 
 <div align="center">
 
@@ -153,6 +153,7 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 <br>
 <br>
  
+
 ### ✍️ 2D & 3D :house:
 
 <br>
@@ -165,6 +166,7 @@ Vous pouvez retrouver le lien vers un trailer [ICI](https://youtu.be/U815CxDImCI
 
 <br>
 <br> 
+
 
 ### 📈 Versioning 📉 
 
