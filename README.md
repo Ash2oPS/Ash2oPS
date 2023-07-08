@@ -1,7 +1,6 @@
 <div align="center">
 
 `[Portfolio en cours de création]`  
-`[Dernière mise à jour : 06/07/2023 - 23:18 - UTC+2]`
 
 ---
 
@@ -44,14 +43,6 @@ mis à beaucoup utiliser `UnityEditor` pour tous mes projets.
 
 
 <br>
-
-
-<p align="center">
-<img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
-</p>
-
-
-
 
 ---
 

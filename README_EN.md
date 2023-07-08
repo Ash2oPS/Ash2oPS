@@ -43,10 +43,6 @@ I didn't even know about: **`Tooling`**! Quickly **UnityEditor** became one of m
 <br>
 
 
-<p align="center">
-<img src="Resources/Images/I_UnityLogo.png" alt= UnityLogo width="30%" height="30%">
-</p>
-
 
 
 
